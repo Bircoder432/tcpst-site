@@ -6,7 +6,7 @@
 }
 
 :root {
-    --light-surface: var(--lighten-surface)fff;
+    --light-surface: #fff;
     --surface: #fcfcfc;
     --on-surface: #2c2c2c;
     --card-background: #f8f9fadc;
@@ -127,6 +127,7 @@ nav a:hover {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/photo_studio1.jpg') no-repeat center center/cover;
     color: var(--lighten-surface);
 }
+
 
 .hero-content h1 {
     font-size: 3rem;
