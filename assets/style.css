@@ -46,6 +46,12 @@ header {
     z-index: 100;
 }
 
+#courses {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
 .napkatext {
     display: flex;
     align-items: center;
