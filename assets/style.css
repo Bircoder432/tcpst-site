@@ -334,7 +334,7 @@ header {
     color: #333;
 }
 
-.footer {
+footer {
     background-color: #1a1a1a;
     color: #aaa;
     padding: 30px 20px;
@@ -342,7 +342,7 @@ header {
     font-size: 0.9rem;
 }
 
-.footer p {
+footer p {
     margin-bottom: 5px;
 }
 
