@@ -34,7 +34,7 @@ h2 {
     color: var(--on-surface);
 }
 
-.header {
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -347,7 +347,7 @@ h2 {
 }
 
 @media (max-width: 768px) {
-    .header {
+    header {
         flex-direction: column;
         padding: 15px;
         gap: 15px;
